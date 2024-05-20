@@ -1,0 +1,15 @@
+.carousel-item {
+    height: 500px; /* Adjust this height as needed */
+    /* Adjust this width as needed */
+    margin: 0 auto; /* Center the carousel items */
+   /* Use flex to center the content */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain ; /* Ensure the image fits without being zoomed in */
+  }
+  
