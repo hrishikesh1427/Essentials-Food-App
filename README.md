@@ -1,3 +1,12 @@
+
+![cartpageFA](https://github.com/hrishikesh1427/Essentials-Food-App/assets/84369074/75060d3a-b2ab-4c5d-9dc8-619c9f721178)
+![homepageFA](https://github.com/hrishikesh1427/Essentials-Food-App/assets/84369074/c88b7de6-ea81-4c2d-9316-557ba72da3f0)
+![loginpageFA](https://github.com/hrishikesh1427/Essentials-Food-App/assets/84369074/6822a3a7-4172-4857-ae9e-216cc06827cc)
+![productspageFA](https://github.com/hrishikesh1427/Essentials-Food-App/assets/84369074/b3b8f87e-dd37-4ab7-bebc-99fbd50900d3)
+![signuppageFA](https://github.com/hrishikesh1427/Essentials-Food-App/assets/84369074/91d7b013-c3d7-461b-b001-2b3af7a89451)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
